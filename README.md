@@ -1,16 +1,17 @@
-### Hi there 👋
+# Oi / Hi there 👋
 
-<!--
-**willywonkabr/willywonkabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+Full-stack dev with focus on back-end
 
-Here are some ideas to get you started:
+Back-end languages: C, C++ and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Front-end languages: JavaScript;
+Frameworks: React;
+
+Mobile: Swift.
+
+Databases: MySQL and MongoDB.
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=willywonkabr&hide=contribs,prs&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywonkabr&layout=compact&theme=midnight-purple)
